@@ -1,0 +1,10 @@
+[package]
+name = "data-structures"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+criterion = "0.8.1"
+rand = "0.9.2"
