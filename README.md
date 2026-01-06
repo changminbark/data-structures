@@ -1,6 +1,6 @@
 # Data Structures
 
-A collection of data structure implementations in multiple programming languages (Go, C++, Rust) with benchmarking support.
+A collection of advanced data structure implementations in multiple programming languages (Go, C++, Rust) with benchmarking support.
 
 - **B-Tree**
   - [x] Rust
